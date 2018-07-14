@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 #include "init.h"
 #include "parse.h"
@@ -26,3 +27,12 @@ int main()
 }
 
 
+=======
+#include "parse.h"
+
+int main(void)
+{
+	shell_loop();
+	return 0;
+}
+>>>>>>> f45601bf0c043f4bf38953fd6a39650096daa65d

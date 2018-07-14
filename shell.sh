@@ -1,0 +1,1 @@
+pa -aux | wc -l
